@@ -1,195 +1,112 @@
 {
-  "pokemons": [
+  "monedas": [
     {
-      "id": 1,
-      "num": 1,
-      "name": "bulbasaur",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "grass"
-          }
-        },
-        {
-          "slot": 2,
-          "type": {
-            "code": 2,
-            "name": "poison"
-          }
-        }
-      ],
+      "nombre": "2 Maravedis - Juana and Carlos (1525-1528)",
+      "material": "Vellón",
+      "masa": 4.8,
+      "diametro": 25,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/1.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/1.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/1.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/1.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/5214-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/5215-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": [
-          "cut"
-        ]
-      }
+      ]
     },
     {
-      "id": 2,
-      "num": 549,
-      "name": "lilligant",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "grass"
-          }
-        }
-      ],
+      "nombre": " Blanca - Felipe II (Cuenca) (1566-1598)",
+      "material": "Vellón",
+      "masa": 1,
+      "diametro": 15,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/549.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/549.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/549.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/549.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/3992-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/3993-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": null
-      }
+      ]
     },
     {
-      "id": 3,
-      "num": 6,
-      "name": "charizard",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "fire"
-          }
-        },
-        {
-          "slot": 2,
-          "type": {
-            "code": 2,
-            "name": "flying"
-          }
-        }
-      ],
+      "nombre": "1 Maravedi - Felipe II (Segovia) 1597-1598",
+      "material": "Vellón",
+      "masa": 1.8,
+      "diametro": 15,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/6.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/6.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/6.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/6.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/5059-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/5060-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": [
-          "fly"
-        ]
-      }
+      ]
     },
     {
-      "id": 4,
-      "num": 50,
-      "name": "diglett",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "ground"
-          }
-        }
-      ],
+      "nombre": " Cuartillo - Felipe II (1566-1598)",
+      "material": "Vellón",
+      "masa": 2.9,
+      "diametro": 23,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/50.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/50.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/50.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/50.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/5181-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/5182-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": null
-      }
+      ]
     },
     {
-      "id": 5,
-      "num": 587,
-      "name": "emolga",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "electric"
-          }
-        },
-        {
-          "slot": 2,
-          "type": {
-            "code": 2,
-            "name": "flying"
-          }
-        }
-      ],
+      "nombre": "16 Maravedis - Felipe IV 1661-1664",
+      "material": "Cobre",
+      "masa": 4.5,
+      "diametro": 26,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/587.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/587.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/587.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/587.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/4836-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/4837-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": [
-          "surf"
-        ]
-      }
+      ]
     },
     {
-      "id": 6,
-      "num": 60,
-      "name": "polywag",
-      "types": [
-        {
-          "slot": 1,
-          "type": {
-            "code": 1,
-            "name": "water"
-          }
-        }
-      ],
+      "nombre": "Medio Real - Fernando and Isabel (Granada) (1497-1566)",
+      "material": "Plata",
+      "masa": 1.7,
+      "diametro": 20,
       "images": [
         {
-          "front": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/front/60.png",
-          "back": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/normal/back/60.png"
-        },
-        {
-          "front_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/front/60.png",
-          "back_shiny": "https://raw.githubusercontent.com/luciajedi/pakumon-api/master/img/shiny/back/60.png"
+          "front": "https://en.numista.com/catalogue/photos/espagne/5349-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/5350-135.jpg"
         }
-      ],
-      "moves": {
-        "HM": [
-          "surf"
-        ]
-      }
-    }
+      ]
+    },
+    {
+      "nombre": "2 Reales - Felipe V (Valencia) 1707-1708",
+      "material": "Plata",
+      "masa": 6.1,
+      "diametro": 24,
+      "images": [
+        {
+          "front": "https://en.numista.com/catalogue/photos/espagne/4036-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/espagne/4037-135.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Seiseno (Terrassa) (1640-1642)",
+      "material": "Cobre",
+      "masa": 3.5,
+      "diametro": 21,
+      "images": [
+        {
+          "front": "https://en.numista.com/catalogue/photos/catalonia_principality/505-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/catalonia_principality/506-135.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Croat - Pedro IV (Barcelona) (1336-1387)",
+      "material": "Plata",
+      "masa": 3.2,
+      "diametro": 22,
+      "images": [
+        {
+          "front": "https://en.numista.com/catalogue/photos/catalonia_principality/611-135.jpg",
+          "back": "https://en.numista.com/catalogue/photos/catalonia_principality/612-135.jpg"
+        }
+      ]
+    },
   ]
 }
